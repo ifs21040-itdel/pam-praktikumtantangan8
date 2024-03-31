@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_allmess"
+            android:icon="@drawable/allkotakmasuk"
+            android:title="Semua kotak masuk" />
+        <item
+            android:id="@+id/nav_main"
+            android:icon="@drawable/utama"
+            android:title="Utama" />
+        <item
+            android:id="@+id/nav_promosi"
+            android:icon="@drawable/promosi"
+            android:title="Promosi" />
+        <item
+            android:id="@+id/nav_social"
+            android:icon="@drawable/social"
+            android:title="Sosial" />
+
+        <item
+            android:id="@+id/nav_bintang"
+            android:icon="@drawable/bintang"
+            android:title="Berbintang" />
+        <item
+            android:id="@+id/nav_ditunda"
+            android:icon="@drawable/ditunda"
+            android:title="Ditunda" />
+        <item
+            android:id="@+id/nav_penting"
+            android:icon="@drawable/penting"
+            android:title="Penting" />
+        <item
+            android:id="@+id/nav_send"
+            android:icon="@drawable/send"
+            android:title="Terkirim" />
+        <item
+            android:id="@+id/draft"
+            android:icon="@drawable/draft"
+            android:title="Draft" />
+
+        <item
+            android:id="@+id/spam"
+            android:icon="@drawable/spam"
+            android:title="Spam" />
+        <item
+            android:id="@+id/sampah"
+            android:icon="@drawable/trash"
+            android:title="Sampah" />
+        <item
+            android:id="@+id/kalendar"
+            android:icon="@drawable/calendar"
+            android:title="Kalendar" />
+        <item
+            android:id="@+id/kontak"
+            android:icon="@drawable/contact"
+            android:title="Kontak" />
+        <item
+            android:id="@+id/setelan"
+            android:icon="@drawable/setelan"
+            android:title="Setelan" />
+        <item
+            android:id="@+id/bantuan"
+            android:icon="@drawable/help"
+            android:title="Bantuan dan Masukan" />
+
+
+
+
+    </group>
+</menu>

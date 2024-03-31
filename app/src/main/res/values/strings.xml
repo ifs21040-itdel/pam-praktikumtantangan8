@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gmail</string>
+
+    <string name="icon_message">ikon pesan</string>
+
+    <string-array name="icon_message">
+        <item>@drawable/listmessage</item>
+    </string-array>
+
+    <string-array name="message">
+        <item>Propeles</item>
+    </string-array>
+
+</resources>
